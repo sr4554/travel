@@ -1,5 +1,5 @@
 import streamlit as st
-from pages import projects, contact  # Import your pages
+from pages import Projects, Contact  # Import your pages
 
 # Page configuration
 st.set_page_config(
