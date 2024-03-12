@@ -1,3 +1,0 @@
-def run():
-    st.title("Contact Page")
-    # Add your contact information and forms using Streamlit elements
