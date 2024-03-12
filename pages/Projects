@@ -1,3 +1,0 @@
-def run():
-    st.title("Projects Page")
-    # Add your project-related content using Streamlit elements
